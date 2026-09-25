@@ -1,0 +1,40 @@
+{
+  "report_type": "AI Health Report Card",
+  "generated_at": "2026-09-23T10:51:41.536194",
+  "report_date": "2026-09-23",
+  "current_health": {
+    "confirmed_symptoms": [],
+    "symptom_count": 0
+  },
+  "recent_changes": [],
+  "medication": {
+    "active_schedule_count": 0,
+    "active_schedules": []
+  },
+  "adherence": {
+    "taken": 0,
+    "missed": 0,
+    "skipped": 0,
+    "snoozed": 0,
+    "total_tracked": 0,
+    "adherence_percentage": null
+  },
+  "what_matters_now": [
+    "No new attention items are currently recorded."
+  ],
+  "doctor_context": {
+    "current_symptoms": [],
+    "active_medicines": [],
+    "recent_events": [],
+    "adherence": {
+      "taken": 0,
+      "missed": 0,
+      "skipped": 0,
+      "snoozed": 0,
+      "total_tracked": 0,
+      "adherence_percentage": null
+    },
+    "note": "This section organizes recorded information for healthcare professional review."
+  },
+  "safety_note": "This report summarizes recorded health information and is not a confirmed diagnosis, prescription, or substitute for professional medical evaluation."
+}

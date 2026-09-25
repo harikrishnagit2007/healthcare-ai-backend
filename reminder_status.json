@@ -1,0 +1,20 @@
+{
+    "2026-09-17|Sample Medicine|21:46": {
+        "status": "skipped"
+    },
+    "2026-09-17|Sample Medicine|21:47": {
+        "status": "snoozed"
+    },
+    "2026-09-17|Sample Medicine|21:52": {
+        "status": "taken"
+    },
+    "2026-09-17|Sample Medicine|22:03": {
+        "status": "skipped"
+    },
+    "2026-09-17|Sample Medicine|23:06": {
+        "status": "taken"
+    },
+    "2026-09-18|Sample Medicine|09:00": {
+        "status": "taken"
+    }
+}

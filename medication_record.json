@@ -1,0 +1,13 @@
+{
+  "medicine_name": "Sample Medicine",
+  "purpose": "Not provided",
+  "dosage": "500 mg",
+  "frequency": "twice daily",
+  "duration_days": 20,
+  "start_date": "2026-09-18",
+  "reminder_times": [
+    "09:00",
+    "21:00"
+  ],
+  "status": "active"
+}

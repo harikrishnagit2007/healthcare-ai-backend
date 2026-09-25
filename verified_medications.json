@@ -1,0 +1,14 @@
+[
+    {
+        "medicine_name": "Sample Medicine",
+        "dosage": "500 mg",
+        "frequency": "1-0-1",
+        "duration": "20 days"
+    },
+    {
+        "medicine_name": "Sample Medicine",
+        "dosage": "500 mg",
+        "frequency": "1-0-1",
+        "duration": "20 days"
+    }
+]
